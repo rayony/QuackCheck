@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.output/
+.vercel/
+.tanstack/
+.grok/
+.nitro/
+artifacts/
+attachments/
+screenshots/
+*.log
+.env
+.env.*
+.project_id
+AGENTS.md
